@@ -1,0 +1,5 @@
+,pred_enojado,pred_feliz,pred_triste,pred_sorprendido
+true_enojado,41,0,4,0
+true_feliz,0,69,0,0
+true_triste,5,0,22,1
+true_sorprendido,0,0,6,77
